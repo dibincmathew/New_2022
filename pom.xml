@@ -40,13 +40,13 @@
         </configuration>
       </plugin>
       <plugin> <artifactId>maven-dependency-plugin</artifactId> 
-      <executions> 
+     <!--  <executions> 
       <execution> 
       <id>getClasspathFilenames</id> 
       <goals> <goal>properties</goal> 
       </goals> 
       </execution> 
-      </executions> 
+      </executions>--> 
       </plugin> 
       <plugin> 
       <groupId>org.apache.maven.plugins</groupId> 
